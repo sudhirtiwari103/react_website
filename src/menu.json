@@ -1,0 +1,74 @@
+[
+    {
+        "_id" : 1,
+        "name":"Havana Special",
+        "img":"/images/peproni.png",
+        "price":100,
+        "size":"Small"
+    },
+    {
+        "_id" : 2,
+        "name":"Havana Special",
+        "img":"/images/peproni.png",
+        "price":200,
+        "size":"Small"
+    },
+    {
+        "_id" : 3,
+        "name":"Havana Special",
+        "img":"/images/peproni.png",
+        "price":300,
+        "size":"Small"
+    },
+    {
+        "_id" : 4,
+        "name":"Havana Special",
+        "img":"/images/peproni.png",
+        "price":500,
+        "size":"Large"
+    },
+    {
+        "_id" : 5,
+        "name":"Havana Special",
+        "img":"/images/peproni.png",
+        "price":500,
+        "size":"Small"
+    },
+    {
+        "_id" : 6,
+        "name":"Havana Special",
+        "img":"/images/peproni.png",
+        "price":699,
+        "size":"Large"
+    },
+    {
+        "_id" : 7,
+        "name":"Havana Special",
+        "img":"/images/peproni.png",
+        "price":50,
+        "size":"Extra Small"
+    },
+    {
+        "_id" : 8,
+        "name":"Havana Special",
+        "img":"/images/peproni.png",
+        "price":399,
+        "size":"Small"
+    },
+    {
+        "_id" : 9,
+        "name":"Havana Special",
+        "img":"/images/peproni.png",
+        "price":499,
+        "size":"Small"
+    },
+    {
+        "_id" : 10,
+        "name":"Havana Special",
+        "img":"/images/peproni.png",
+        "price":999,
+        "size":"Small"
+    }
+
+
+]
